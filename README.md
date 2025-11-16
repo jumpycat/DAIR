@@ -1,1 +1,1 @@
-# DAIR: Dynamic Image Reconstructor
+# DAIR: Dynamic-Architecture Image Reconstructor
