@@ -33,7 +33,7 @@ def get_parser():
     parser.add_argument("--train_dir", type=str, default="CoCo/coco_train/train_2017")
     parser.add_argument("--batch_size", type=int, default=4)
 
-    parser.add_argument("--img_size", type=int, default=128)
+    parser.add_argument("--img_size", type=int, default=256)
     parser.add_argument("--lr", type=float, default=1e-4)
     parser.add_argument("--steps", type=int, default=1000000)
     parser.add_argument("--encoder_module", type=str, default="encoder2")
